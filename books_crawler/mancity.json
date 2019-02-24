@@ -1,0 +1,249 @@
+[
+  {
+    "Away Team": {
+      "Attempt on Goal": 6,
+      "Scored Goal": 1,
+      "Shot blocked": 0,
+      "Shot off the bar": 3,
+      "Shot saved ": 2,
+      "TeamAway": "Arsenal"
+    },
+    "Home Team": {
+      "Attempt on Goal": 9,
+      "Scored Goal": 3,
+      "Shot blocked": 2,
+      "Shot off the bar": 2,
+      "Shot saved ": 2,
+      "TeamHome": "Man City"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/05-11-2017/man-city-vs-arsenal/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 7,
+      "Scored Goal": 1,
+      "Shot blocked": 1,
+      "Shot off the bar": 4,
+      "Shot saved ": 1,
+      "TeamAway": "Spurs"
+    },
+    "Home Team": {
+      "Attempt on Goal": 20,
+      "Scored Goal": 4,
+      "Shot blocked": 2,
+      "Shot off the bar": 6,
+      "Shot saved ": 7,
+      "TeamHome": "Man City"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/16-12-2017/man-city-vs-spurs/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 15,
+      "Scored Goal": 3,
+      "Shot blocked": 2,
+      "Shot off the bar": 8,
+      "Shot saved ": 2,
+      "TeamAway": "Man City"
+    },
+    "Home Team": {
+      "Attempt on Goal": 7,
+      "Scored Goal": 2,
+      "Shot blocked": 2,
+      "Shot off the bar": 1,
+      "Shot saved ": 2,
+      "TeamHome": "WBA"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/28-10-2017/wba-vs-man-city/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 6,
+      "Scored Goal": 0,
+      "Shot blocked": 3,
+      "Shot off the bar": 3,
+      "Shot saved ": 0,
+      "TeamAway": "Burnley"
+    },
+    "Home Team": {
+      "Attempt on Goal": 15,
+      "Scored Goal": 3,
+      "Shot blocked": 1,
+      "Shot off the bar": 4,
+      "Shot saved ": 7,
+      "TeamHome": "Man City"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/21-10-2017/man-city-vs-burnley/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 6,
+      "Scored Goal": 2,
+      "Shot blocked": 1,
+      "Shot off the bar": 3,
+      "Shot saved ": 0,
+      "TeamAway": "Stoke"
+    },
+    "Home Team": {
+      "Attempt on Goal": 20,
+      "Scored Goal": 7,
+      "Shot blocked": 0,
+      "Shot off the bar": 9,
+      "Shot saved ": 4,
+      "TeamHome": "Man City"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/14-10-2017/man-city-vs-stoke/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 9,
+      "Scored Goal": 0,
+      "Shot blocked": 3,
+      "Shot off the bar": 3,
+      "Shot saved ": 2,
+      "TeamAway": "Man City"
+    },
+    "Home Team": {
+      "Attempt on Goal": 1,
+      "Scored Goal": 0,
+      "Shot blocked": 0,
+      "Shot off the bar": 0,
+      "Shot saved ": 1,
+      "TeamHome": "Brighton"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/12-08-2017/brighton-vs-man-city/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 3,
+      "Scored Goal": 0,
+      "Shot blocked": 1,
+      "Shot off the bar": 1,
+      "Shot saved ": 1,
+      "TeamAway": "WBA"
+    },
+    "Home Team": {
+      "Attempt on Goal": 19,
+      "Scored Goal": 3,
+      "Shot blocked": 2,
+      "Shot off the bar": 6,
+      "Shot saved ": 7,
+      "TeamHome": "Man City"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/31-01-2018/man-city-vs-wba/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 22,
+      "Scored Goal": 1,
+      "Shot blocked": 4,
+      "Shot off the bar": 10,
+      "Shot saved ": 5,
+      "TeamAway": "Man City"
+    },
+    "Home Team": {
+      "Attempt on Goal": 6,
+      "Scored Goal": 0,
+      "Shot blocked": 1,
+      "Shot off the bar": 3,
+      "Shot saved ": 2,
+      "TeamHome": "Newcastle"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/27-12-2017/newcastle-vs-man-city/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 7,
+      "Scored Goal": 1,
+      "Shot blocked": 0,
+      "Shot off the bar": 3,
+      "Shot saved ": 3,
+      "TeamAway": "West Ham"
+    },
+    "Home Team": {
+      "Attempt on Goal": 22,
+      "Scored Goal": 2,
+      "Shot blocked": 9,
+      "Shot off the bar": 5,
+      "Shot saved ": 6,
+      "TeamHome": "Man City"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/03-12-2017/man-city-vs-west-ham/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 9,
+      "Scored Goal": 3,
+      "Shot blocked": 3,
+      "Shot off the bar": 1,
+      "Shot saved ": 2,
+      "TeamAway": "Man City"
+    },
+    "Home Team": {
+      "Attempt on Goal": 10,
+      "Scored Goal": 0,
+      "Shot blocked": 3,
+      "Shot off the bar": 2,
+      "Shot saved ": 5,
+      "TeamHome": "Arsenal"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/01-03-2018/arsenal-vs-man-city/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 19,
+      "Scored Goal": 2,
+      "Shot blocked": 4,
+      "Shot off the bar": 6,
+      "Shot saved ": 6,
+      "TeamAway": "Man City"
+    },
+    "Home Team": {
+      "Attempt on Goal": 9,
+      "Scored Goal": 1,
+      "Shot blocked": 3,
+      "Shot off the bar": 2,
+      "Shot saved ": 2,
+      "TeamHome": "B'mouth"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/26-08-2017/b-mouth-vs-man-city/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 15,
+      "Scored Goal": 5,
+      "Shot blocked": 1,
+      "Shot off the bar": 5,
+      "Shot saved ": 4,
+      "TeamAway": "Man City"
+    },
+    "Home Team": {
+      "Attempt on Goal": 6,
+      "Scored Goal": 0,
+      "Shot blocked": 1,
+      "Shot off the bar": 2,
+      "Shot saved ": 3,
+      "TeamHome": "Watford"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/21-05-2017/watford-vs-man-city/matches"
+  },
+  {
+    "Away Team": {
+      "Attempt on Goal": 6,
+      "Scored Goal": 1,
+      "Shot blocked": 2,
+      "Shot off the bar": 2,
+      "Shot saved ": 1,
+      "TeamAway": "WBA"
+    },
+    "Home Team": {
+      "Attempt on Goal": 21,
+      "Scored Goal": 3,
+      "Shot blocked": 2,
+      "Shot off the bar": 9,
+      "Shot saved ": 7,
+      "TeamHome": "Man City"
+    },
+    "source": "http://epl.squawka.com/english-premier-league/16-05-2017/man-city-vs-wba/matches"
+  }
+]
